@@ -7,7 +7,7 @@ Requires:
 
 Make sure you have downloaded the Firefox geckodriver and it is in your `PATH`.
 
-Also make sure you have exported your SSO password as env variable `SSO_PWD` before starting this notebook.
+Also make sure you have exported your SSO password as env variable `SSO_PWD` and your SSO username as `SSO_USER` before starting this notebook.
 
 To download geckodriver:
 
