@@ -111,5 +111,6 @@ dist
 .DS_Store
 setup.sh
 posters/
+posters_png/
 .ipynb_checkpoints/
 *.pdf
