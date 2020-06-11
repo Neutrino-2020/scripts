@@ -111,8 +111,8 @@
         {
             "id": "24",
             "author": "Osamu Yasuda",
-            "file_name": "None",
-            "file_link": "None"
+            "file_name": "nu2020-yasuda-v004.pdf",
+            "file_link": "https://indico.fnal.gov/event/19348/contributions/186540/attachments/129232/156697/nu2020-yasuda-v004.pdf"
         },
         {
             "id": "26",
@@ -279,8 +279,8 @@
         {
             "id": "59",
             "author": "Young-Dae Jung",
-            "file_name": "None",
-            "file_link": "None"
+            "file_name": "Neutrino 2020(Poster-59-Lee-Jung).pdf",
+            "file_link": "https://indico.fnal.gov/event/19348/contributions/186622/attachments/129233/156699/Neutrino_2020Poster-59-Lee-Jung.pdf"
         },
         {
             "id": "60",
@@ -723,8 +723,8 @@
         {
             "id": "143",
             "author": "Arie Bodek",
-            "file_name": "Bodek-Cai-optical-talk.pdf",
-            "file_link": "https://indico.fnal.gov/event/19348/contributions/186324/attachments/129053/156521/Bodek-Cai-optical-talk.pdf"
+            "file_name": "Neutrino_2020_Bodek_Cai_36x48_poster.pdf",
+            "file_link": "https://indico.fnal.gov/event/19348/contributions/186324/attachments/129053/156516/Neutrino_2020_Bodek_Cai_36x48_poster.pdf"
         },
         {
             "id": "144",
@@ -1581,8 +1581,8 @@
         {
             "id": "291",
             "author": "Hiroshi Ogawa",
-            "file_name": "None",
-            "file_link": "None"
+            "file_name": "200622-ogawa-neutrino2020poster-v2.pdf",
+            "file_link": "https://indico.fnal.gov/event/19348/contributions/186283/attachments/129234/156700/200622-ogawa-neutrino2020poster-v2.pdf"
         },
         {
             "id": "292",
@@ -3471,8 +3471,8 @@
         {
             "id": "621",
             "author": "A.V. Butkevich",
-            "file_name": "None",
-            "file_link": "None"
+            "file_name": "Neutrino2020_poster_Butkevich.pdf",
+            "file_link": "https://indico.fnal.gov/event/19348/contributions/188497/attachments/129239/156713/Neutrino2020_poster_Butkevich.pdf"
         },
         {
             "id": "622",
@@ -3483,12 +3483,6 @@
         {
             "id": "623",
             "author": "Alec Habig",
-            "file_name": "None",
-            "file_link": "None"
-        },
-        {
-            "id": "624",
-            "author": "Apriadi Salim Adam",
             "file_name": "None",
             "file_link": "None"
         },
@@ -3519,6 +3513,12 @@
         {
             "id": "629",
             "author": "Matteo Tenti",
+            "file_name": "None",
+            "file_link": "None"
+        },
+        {
+            "id": "630",
+            "author": "Apriadi Salim Adam",
             "file_name": "None",
             "file_link": "None"
         }
